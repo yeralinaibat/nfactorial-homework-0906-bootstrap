@@ -1,1 +1,1 @@
-# nfactorial-homework-0806-dom-vanillajs
+# nfactorial-homework
